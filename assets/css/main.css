@@ -1936,6 +1936,9 @@ input, select, textarea {
 			bottom: 2em;
 			margin: -4em 0 2em -4em;
 			width: auto;
+			height: 300px;
+			object-fit: cover;
+			box-sizing: border-box;
 		}
 
 /* Icons */

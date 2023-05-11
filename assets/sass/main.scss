@@ -424,6 +424,7 @@
 	.image {
 		display: inline-block;
 		position: relative;
+		object-fit: cover;
 
 		img {
 			display: block;
