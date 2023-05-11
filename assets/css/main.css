@@ -1936,8 +1936,8 @@ input, select, textarea {
 			bottom: 2em;
 			margin: -4em 0 2em -4em;
 			width: auto;
-			height: 300px;
-			object-fit: cover;
+			height: 330px;
+			object-fit: contain;
 			box-sizing: border-box;
 		}
 
