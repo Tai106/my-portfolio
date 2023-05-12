@@ -12,7 +12,4 @@ A website that showcases some of my most recent projects.
 * https://tai106.github.io/my-portfolio/
 
 
-## Contributor
-Made with ❤️ by Taivon Edwards
-
-### ©️2022 tai-portfolio
+### ©️2023 Tai-portfolio
